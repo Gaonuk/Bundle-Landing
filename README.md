@@ -1,4 +1,4 @@
-![bundle landing page image]('./assets/images/landing3.png')
+![bundle landing page image](/assets/images/landing3.png)
 
 # Bundle Landing Page
 
