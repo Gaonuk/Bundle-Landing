@@ -1,16 +1,16 @@
-# landing
+![bundle landing page image]('./assets/images/landing3.png')
 
-A new Flutter project.
+# Bundle Landing Page
+
+Bundle landing page made in Flutter web.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project was made using Flutter,
+if you want to run this project you have to clone the repo, download flutter, change channel to beta, and finally run ```flutter run -d chrome```
 
-A few resources to get you started if this is your first Flutter project:
+A few resources i used for this project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+    - flutter_svg: ^0.19.0
+    - font_awesome_flutter: ^8.8.1
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
